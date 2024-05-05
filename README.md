@@ -28,18 +28,19 @@ To run the AgriSmart Hub locally, you'll need to have Python and Streamlit insta
 3.Install the required dependencies:
     pip install -r requirements.txt
 
-Running the App
+## Running the App
 To run the Streamlit app, use the following command:
 
 ```bash
-Copy code
+
 streamlit run app.py
+```
 This will start the app on your local machine. Open the provided URL in your web browser to access the app.
 
-Contribution
+## Contribution
 We welcome contributions to improve AgriSmart Hub. If you'd like to contribute, please follow these steps:
 
-Fork this repository.
+## Fork this repository.
 Create a new branch for your feature or bugfix.
 Submit a pull request with a description of your changes.
 

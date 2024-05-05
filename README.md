@@ -18,7 +18,7 @@ To run the AgriSmart Hub locally, you'll need to have Python and Streamlit insta
 
    ```bash
    git clone https://github.com/leocoderz/AgriSmartHub
-   cd agrismart-hub
+   cd AgriSmartHub
 2. Create a virtual environment and activate it:
 
    python -m venv venv

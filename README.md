@@ -17,7 +17,7 @@ To run the AgriSmart Hub locally, you'll need to have Python and Streamlit insta
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/agrismart-hub.git
+   git clone https://github.com/leocoderz/agrismart-hub.git
    cd agrismart-hub
 2. Create a virtual environment and activate it:
 
@@ -31,7 +31,7 @@ To run the AgriSmart Hub locally, you'll need to have Python and Streamlit insta
 Running the App
 To run the Streamlit app, use the following command:
 
-'''bash
+```bash
 Copy code
 streamlit run app.py
 This will start the app on your local machine. Open the provided URL in your web browser to access the app.

@@ -23,7 +23,7 @@ To run the AgriSmart Hub locally, you'll need to have Python and Streamlit insta
 
    python -m venv venv
    source venv/bin/activate  # Linux/macOS
-   .\venv\Scripts\activate  # Windows
+   source venv/Scripts/activate  # Windows
    
 3.Install the required dependencies:
     pip install -r requirements.txt

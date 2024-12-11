@@ -9,7 +9,7 @@ from openai import OpenAI
 model = load_model('plant_disease_model.h5')
 
 # OpenAI API Key
-api_key = "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"
+api_key = "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"
 client = OpenAI(api_key=api_key)
 
 # Name of Classes
